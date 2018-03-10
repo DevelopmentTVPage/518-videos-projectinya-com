@@ -1,0 +1,15 @@
+{
+    "title": "Projectiny A",
+    "baseURL": "https:\/\/videos.projectinya.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758904",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "projectinya.com"
+    }
+}
